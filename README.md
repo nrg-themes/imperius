@@ -35,5 +35,4 @@ Once again, thank you so much for purchasing this theme. As I said at the beginn
 NRGThemes
 
 Support: https://nrgthemes.ticksy.com
-
 Email: hello@nrgthemes.com
