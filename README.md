@@ -33,6 +33,3 @@ First of all, we want to say **thank you!** We are very grateful that you have c
 Once again, thank you so much for purchasing this theme. As I said at the beginning, I'd be glad to help you if you have any questions relating this theme. No guarantees, but I'll do my best to assist. If you have any suggestions on how to improve our themes or documentation please share them!
 
 NRGThemes
-
-Support: https://nrgthemes.ticksy.com
-Email: hello@nrgthemes.com
